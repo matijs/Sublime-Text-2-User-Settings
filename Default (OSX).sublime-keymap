@@ -1,0 +1,6 @@
+[
+	// always use paste and indent
+	{ "keys": ["super+v"], "command": "paste_and_indent" },
+	// make 'just' paste the alternate behaviour
+	{ "keys": ["super+shift+v"], "command": "paste" }
+]
