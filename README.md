@@ -13,6 +13,7 @@ Alternative location symlinked on Dropbox:
 ## Ignored files ##
 
 * GitHub.sublime-settings — because it contains a GitHub token
+* Package Control.sublime-settings — as it is auto-updated
 
 ## Suggestions ##
 
