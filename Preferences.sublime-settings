@@ -16,6 +16,7 @@
 		"*.zip",
 		"*.woff"
 	],
+	"bold_folder_labels": true,
 	"caret_style": "blink",
 	"color_scheme": "Packages/Color Scheme - Default/Solarized (Dark).tmTheme",
 	"create_window_at_startup": false,
@@ -61,6 +62,7 @@
 	],
 	"indent_to_bracket": true,
 	"remember_open_files": false,
+	"save_on_focus_lost": true,
 	"scroll_past_end": true,
 	"shift_tab_unindent": true,
 	"tab_size": 2,
