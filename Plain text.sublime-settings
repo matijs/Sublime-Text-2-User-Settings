@@ -1,6 +1,7 @@
 {
+	"draw_centered": true,
 	"line_numbers": false,
 	"rulers": [0,80],
-	"wrap_width": 80,
+	"wrap_width": 78,
 	"word_wrap": true
 }
