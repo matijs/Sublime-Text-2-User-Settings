@@ -1,3 +1,4 @@
 {
-	"highlight_line": false
+	"highlight_line": false,
+	"word_wrap": true
 }
