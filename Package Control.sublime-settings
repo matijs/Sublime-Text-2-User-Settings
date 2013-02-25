@@ -5,7 +5,7 @@
 		"ApacheConf.tmLanguage",
 		"Dotfiles Syntax Highlighting",
 		"EditorConfig",
-		"emmet-sublime",
+		"Emmet",
 		"Git",
 		"Package Control",
 		"Sass",
@@ -15,7 +15,6 @@
 	"repositories":
 	[
 		"https://github.com/SublimeLinter/SublimeLinter",
-		"https://github.com/sergeche/emmet-sublime",
 		"https://github.com/sindresorhus/editorconfig-sublime"
 	]
 }
