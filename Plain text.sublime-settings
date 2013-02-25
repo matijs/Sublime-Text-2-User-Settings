@@ -2,6 +2,7 @@
 	"draw_centered": true,
 	"line_numbers": false,
 	"rulers": [0,80],
+	"tab_size": 8,
 	"wrap_width": 78,
 	"word_wrap": true
 }
